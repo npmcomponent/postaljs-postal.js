@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [postaljs/postal.js](http://github.com/postaljs/postal.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/postaljs-postal.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Postal.js
 
 ## Version 0.9.0-rc1	 (Dual Licensed [MIT](http://www.opensource.org/licenses/mit-license) & [GPL](http://www.opensource.org/licenses/gpl-license))
